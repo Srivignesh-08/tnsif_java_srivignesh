@@ -10,7 +10,7 @@ public class StdDemo {
 
         StdDetails s2 = new StdDetails();
         s2.setId(102);
-        s2.setName("Sridhar");
+        s2.setName("Gopal");
         s2.setAge(21);
         s2.setDepartment("ECE");
 
