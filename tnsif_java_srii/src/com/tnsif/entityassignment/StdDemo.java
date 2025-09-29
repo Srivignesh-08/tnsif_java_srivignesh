@@ -16,7 +16,7 @@ public class StdDemo {
 
         StdDetails s3 = new StdDetails();
         s3.setId(103);
-        s3.setName("Gopal");
+        s3.setName("sharan");
         s3.setAge(22);
         s3.setDepartment("MECH");
 
