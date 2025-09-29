@@ -4,7 +4,7 @@ public class StdDemo {
     public static void main(String[] args) {
     	StdDetails s1 = new StdDetails();
         s1.setId(101);
-        s1.setName("Vignesh");
+        s1.setName("SRII");
         s1.setAge(20);
         s1.setDepartment("CSE");
 
