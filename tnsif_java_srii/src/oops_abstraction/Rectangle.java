@@ -12,7 +12,6 @@ public class Rectangle extends Shape{
 	public Rectangle(float width, float height) {
 		this.width = width;
 		this.height = height;
-	}
 
 	@Override
 	void calArea() {
