@@ -1,5 +1,5 @@
 //Program to demonstrate MultiLevel inheritance
-package inheritance.multilevelinheritance;
+package multilevelinheritance;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

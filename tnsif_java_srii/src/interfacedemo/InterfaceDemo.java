@@ -10,7 +10,7 @@ public class InterfaceDemo implements Shape{
 	
 	//implementation or explanation
 	public void draw() {
-		System.out.println("Drawing a circle in an interface");
+		System.out.println("Drawing a cirgcle in an interface");
 	}
 
 	public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //Program to define base class Person
-package inheritance.multilevelinheritance;
+package multilevelinheritance;
 
 import java.util.Date;
 
