@@ -12,7 +12,7 @@ public class Citizen {
 	public Citizen() {
 		System.out.println("Citizen object created");
 	}
-
+//igiug
 	public Citizen(String name, String aadharNo, String address, long phno) {
 
 		this.name = name;
